@@ -10,7 +10,7 @@ const DATA = [
     "habitaciones": 3,
     "baños": 2,
     "parqueaderos": 1,
-    "imagen": "https://via.placeholder.com/600x400?text=Casa+Barranquilla",
+    "imagen": "https://www.kayak.com.co/rimg/himg/4e/18/14/leonardo-641376-156130337-447716.jpg?width=836&height=607&crop=true",
     "latitud": 10.9639,
     "longitud": -74.7964
   },
@@ -25,7 +25,7 @@ const DATA = [
     "habitaciones": 2,
     "baños": 2,
     "parqueaderos": 0,
-    "imagen": "https://via.placeholder.com/600x400?text=Casa+Bogota",
+    "imagen": "https://img.freepik.com/fotos-premium/casa-esta-listada-15-millones_1023984-32412.jpg",
     "latitud": 4.7110,
     "longitud": -74.0721
   },
@@ -40,7 +40,7 @@ const DATA = [
     "habitaciones": 2,
     "baños": 2,
     "parqueaderos": 1,
-    "imagen": "https://via.placeholder.com/600x400?text=Casa+Jamundi",
+    "imagen": "https://pic.le-cdn.com/thumbs/520x390/152/1/properties/Property-84100842d807095fdcd2036ca6a1eb19-131095878.jpg",
     "latitud": 3.2630,
     "longitud": -76.5377
   },
@@ -48,14 +48,14 @@ const DATA = [
     "id": 4,
     "ciudad": "Rionegro",
     "nombre": "Alejandría",
-    "categoria": "Lote",
+    "categoria": "Casa",
     "precio_actual": 190000000,
     "precio_anterior": 240000000,
     "area": "54m²",
     "habitaciones": 2,
     "baños": 2,
     "parqueaderos": 1,
-    "imagen": "https://via.placeholder.com/600x400?text=Casa+Rionegro",
+    "imagen": "https://s3.amazonaws.com/cdn.contex.com.co/wp-content/uploads/2023/10/Vayu%CC%81h_Casas_Rionegro_Fachada_2.jpg",
     "latitud": 6.1532,
     "longitud": -75.3740
   }
@@ -155,3 +155,4 @@ function App() {
 }
 
 ReactDOM.createRoot(document.getElementById('root')).render(<App />);
+
