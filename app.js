@@ -88,7 +88,7 @@ const DATA = [
     "habitaciones": 0,
     "baños": 0,
     "parqueaderos": 0,
-    "imagen": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?w=800&q=80",
+    "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_716317-MCO77384781120_072024-T.webp",
     "descripcion": "Lote urbano en Cali ubicado en una zona residencial tranquila."
   }
 ];
@@ -207,3 +207,4 @@ function App() {
 }
 
 ReactDOM.createRoot(document.getElementById('root')).render(<App />);
+
