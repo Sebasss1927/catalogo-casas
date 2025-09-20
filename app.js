@@ -10,7 +10,7 @@ const DATA = [
     "habitaciones": 3,
     "baños": 2,
     "parqueaderos": 1,
-    "imagen": "imagenes/casa-barranquilla.jpg",
+    "imagen": "https://via.placeholder.com/600x400?text=Casa+Barranquilla",
     "latitud": 10.9639,
     "longitud": -74.7964
   },
@@ -25,7 +25,7 @@ const DATA = [
     "habitaciones": 2,
     "baños": 2,
     "parqueaderos": 0,
-    "imagen": "imagenes/casa-bogota.jpg",
+    "imagen": "https://via.placeholder.com/600x400?text=Casa+Bogota",
     "latitud": 4.7110,
     "longitud": -74.0721
   },
@@ -40,7 +40,7 @@ const DATA = [
     "habitaciones": 2,
     "baños": 2,
     "parqueaderos": 1,
-    "imagen": "imagenes/casa-jamundi.jpg",
+    "imagen": "https://via.placeholder.com/600x400?text=Casa+Jamundi",
     "latitud": 3.2630,
     "longitud": -76.5377
   },
@@ -55,7 +55,7 @@ const DATA = [
     "habitaciones": 2,
     "baños": 2,
     "parqueaderos": 1,
-    "imagen": "imagenes/casa-rionegro.jpg",
+    "imagen": "https://via.placeholder.com/600x400?text=Casa+Rionegro",
     "latitud": 6.1532,
     "longitud": -75.3740
   }
